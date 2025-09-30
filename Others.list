@@ -14,5 +14,6 @@ DOMAIN-SUFFIX,mhgui.com
 DOMAIN-SUFFIX,unraid.com
 DOMAIN-SUFFIX,suyunti.net
 DOMAIN-KEYWORD,suyunti
+DOMAIN-SUFFIX,nyaatracker.com
 IP-CIDR,199.16.0.0/16,no-resolve
 IP-CIDR,124.11.0.0/16,no-resolve
